@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Tugas Sudirman</string>
+    <string-array name="daftarNegara">
+        <item>Indonesia</item>
+        <item>Singapore</item>
+        <item>Malaysia</item>
+        <item>Philippines</item>
+        <item>Australia</item>
+    </string-array>
+    <string name="jalan">Street</string>
+    <string name="kodePos">Zip Code</string>
+    <string name="negara">Country</string>
+    <string name="nama">Name</string>
+    <string name="telp">Telephone</string>
+    <string name="sandi">Password</string>
+    <string name="tglLahir">Birth Date</string>
+</resources>
