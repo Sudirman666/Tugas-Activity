@@ -81,6 +81,17 @@
                 android:textColor="#fff"
                 android:id="@+id/buttonCreate"
                 android:textSize="18sp" />
+
+            <Button
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="15dp"
+                android:background="#d67601"
+                android:text="Edit"
+                android:textAllCaps="false"
+                android:textColor="#fff"
+                android:id="@+id/buttonEdit"
+                android:textSize="18sp" />
         </LinearLayout>
     </RelativeLayout>
 
